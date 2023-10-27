@@ -1,0 +1,15 @@
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\bin\Debug\net5.0\Exercício4.exe
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\bin\Debug\net5.0\Exercício4.deps.json
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\bin\Debug\net5.0\Exercício4.runtimeconfig.json
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\bin\Debug\net5.0\Exercício4.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\bin\Debug\net5.0\Exercício4.dll
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\bin\Debug\net5.0\Exercício4.pdb
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.AssemblyInfo.cs
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.dll
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\refint\Exercício4.dll
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.pdb
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\Exercício4.genruntimeconfig.cache
+C:\Users\Rafael\Documents\Estudos\C# COMPLETO Programação Orientada a Objetos + Projetos\ClassesAtributosMembrosEstaticos\Exercícios\Exercício4\Exercício4\obj\Debug\net5.0\ref\Exercício4.dll
